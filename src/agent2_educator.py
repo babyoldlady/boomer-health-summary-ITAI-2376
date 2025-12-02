@@ -2,7 +2,7 @@
 Agent 2: Health Explainer
 Converts medical terminology into patient-friendly language
 
-Team: Hilary C Bruton, Glen Sam, Oyinade Balogun, Kaleb
+Team: Oyinade Balogun, Hilary C Bruton, Glen Sam, Kaleb
 Course: ITAI 2376 - Boomer Health Summary Project
 """
 
