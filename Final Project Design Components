@@ -1,0 +1,85 @@
+FINAL PROJECT SCOPE
+
+Create a Multi-Agent Collaborative System, developing a team of specialized agents that collaborate to solve problems more effectively than a single agent could. 
+
+Key Features of the Completed Project: 
+
+-Specialized agent roles (i.e. researcher, critic, editor, etc.)
+-Communication protocols between agents
+-Task distribution and coordination 
+-Consensus building or leader-based decision making
+
+[Example implementation:  A document creation system where different agents contribute research, writing, editing, and fact-checking to produce high-quality content.]
+
+---------
+
+TECHNICAL REQUIREMENTS
+
+The completed project must include all of the following components: 
+
+Agent Architecture
+-The agent system must implement a coherent architecture that includes: 
+--Input processing - how the agent interprets user requests or environmental data 
+--Memory system - how the agent stores and retrieves information 
+--Reasoning component - how the agent makes decisions and plans actions 
+--Output generation - how the agent communicates results or takes actions 
+-Implement at least one established agent pattern such as 
+--ReAct (Reasoning and Acting)
+--Chain-of-thought reasoning 
+--Reflection-based improvement
+--Planning-then-execution 
+
+Tool Integration
+-The agent must effectively use at least two external tools. Each tool must : 
+--Document how the agent determines when to use the tool 
+--Implement error handling for when tools fail 
+--Show how the agent interprets and uses tool outputs
+-Examples of external tools may be: 
+--Web search capabilities
+--Document processing
+--Calculation tools
+--API interactions
+--Code execution environments
+--Vector databases for knowledge retrieval
+
+Reinforcement Learning Elements
+-Incorporate at least one reinforcement learning concept into the agent system from the following list. This doesn’t necessarily require the implementation of traditional RL algorithms but should demonstrate how the agent learns from experience. 
+--Feedback Mechanism: how user or environment feedback improves agent behavior
+--Reward system: how the agent evaluates the success of its actions
+--Policy improvement: how the agent’s decision-making improves over time 
+
+Safety and Security Measures 
+-Include these explicit safety measures in your agent:
+--Input validation: screening for inappropriate or harmful requests
+--Boundary enforcement: clearly defined limitations on what the agent will/won’t do
+--Fallback strategies: how the agent responds when it can’t fulfill a request
+--Transparency: how the agent communicates its limitations and reasoning
+
+---------
+
+BUILD REQUIREMENTS
+
+Built on Google Colab, utilize LangChain Documentation
+
+---------
+
+FINAL SUBMISSION
+
+Source Code Repository
+-Filename format: FN_Code_Hillary Bruton_Group_ITAI2376.zip
+--GitHub link to well-organized codebase
+--README with setup instructions and names (Hillary Bruton)
+--Requirements file listing all dependencies
+--Well-commented code with clear documentation
+--Configuration files (with sensitive information removed)
+
+Project Report
+-Filename format: FN_Report_Hillary Bruton_Group_ITAI2376.zip
+-Title Page with group name and full names of all participants
+-Project Overview with description of the agent and its purpose
+-System Architecture with description of key components and their interactions
+-Implementation Details: Key technical decisions and approaches
+-Evaluation Results: How you tested the agenet and what results you found 
+-Challenges and solutions: Problems encountered and how you solved them
+-Lessons Learned: Insights gained during the project
+-Future Improvements: how the agent could be enhanced with more time
