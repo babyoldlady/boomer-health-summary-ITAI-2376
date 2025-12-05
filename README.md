@@ -187,7 +187,7 @@ Every output includes disclaimers:
 
 | Date | Task |
 |------|------|
-| Nov 24-26 | PROJECT PROPOSAL was subimtted, Create system skeleton, implement input methods, build Agent 1 |
+| Nov 24-26 | PROJECT PROPOSAL was submitted, Create system skeleton, implement input methods, build Agent 1 |
 | Nov 27-29 | Implement Agent 2 (Health Explainer) and Agent 3 (Lifestyle Coach) |
 | Nov 30-Dec 1 | Add user feedback loop, integrate all agents |
 | Dec 2-3 | Add safety measures, create test cases, produce sample outputs |
