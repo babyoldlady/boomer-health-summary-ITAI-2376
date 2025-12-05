@@ -1,16 +1,16 @@
 # Boomer Health Summary Multi-Agent System
 
 **Course:** ITAI 2376 - Deep Learning  
-**Team Members:** Oyinade Balogun, Hilary C Bruton, Glen Sam, Kaleb  
+**Team Members:** Oyinade Balogun, Hillary (Dreyer) Bruton, Glen Sam, Kaleb  
 **Project Option:** Option 3 - Multi-Agent Collaborative System
 
 ## Project Overview
 
-A patient-facing multi-agent system that helps older adults ("Boomers") understand their medical paperwork by transforming complex discharge summaries, prescriptions, and after-visit notes into simple, actionable health guidance.
+A patient-facing multi-agent system that helps aging adults (AKA "Boomers") understand their medical paperwork by transforming complex discharge summaries, prescriptions, and after-visit notes into simple, actionable health guidance.
 
 ### The Problem We're Solving
 
-Many patients;especially older adults, struggle to understand:
+Many patients - especially older adults, struggle to understand:
 - Discharge paperwork
 - After-visit summaries  
 - Prescription instructions
@@ -187,7 +187,7 @@ Every output includes disclaimers:
 
 | Date | Task |
 |------|------|
-| Nov 24-26 | Create system skeleton, implement input methods, build Agent 1 |
+| Nov 24-26 | PROJECT PROPOSAL was subimtted, Create system skeleton, implement input methods, build Agent 1 |
 | Nov 27-29 | Implement Agent 2 (Health Explainer) and Agent 3 (Lifestyle Coach) |
 | Nov 30-Dec 1 | Add user feedback loop, integrate all agents |
 | Dec 2-3 | Add safety measures, create test cases, produce sample outputs |
@@ -258,22 +258,24 @@ We will create fake medical documents representing:
 
 **Important Medical Disclaimer:**
 
-This system provides **educational information only**. It does NOT:
+This system provides **educational information for the consideration of the patient or patient's representative only**. It does NOT:
 - Diagnose medical conditions
 - Prescribe treatments
 - Replace professional medical advice
+- Supplant professional medical advice
+- Guarantee completeness, accuracy or current status of information 
 - Handle medical emergencies
 
 **Always consult your healthcare provider for medical decisions.**
 
 ## License
 
-Educational project for ITAI 2376. Not intended for commercial use or actual medical deployment without proper regulatory approval.
+Educational project created for Houston City College's ITAI 2376 course. This has not been vetted nor is it intended for commercial use or actual medical deployment. It should not be deployed in this manner without proper regulatory approval and continued improvements, particularly regarding patient safety, information cybersecurity and robustness of information provided via the system.
 
 ## Contact
 
-For questions about this project, contact team members through the course portal.
+For questions about this project, contact team members through the ITAI 2376 course portal.
 
 ---
 
-**Built with ❤️ to help patients better understand their healthcare**
+
